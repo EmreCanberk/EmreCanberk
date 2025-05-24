@@ -18,6 +18,6 @@
   <code>Firebase</code><br>
   🌱 <strong>Öğreniyorum:</strong> React, AI, ML<br>
    
-  🔗 <a href="https://linkedin.com/in/emrecanberk">LinkedIn</a>
+  🔗 <a  center href="https://linkedin.com/in/emrecanberk">LinkedIn</a>
 </p>
 
