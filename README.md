@@ -32,9 +32,12 @@
 
 <hr>
 
-<h1 align="center">
-  <strong><span style="color:#FFD700">Адыгэ Уэй Уэй</span></strong>
-</h1>
+<p align="center">
+  <img 
+    src="https://img.shields.io/static/v1?label=&message=Адыгэ%20Уэй%20Уэй&color=FFD700&style=for-the-badge" 
+    alt="Адыгэ Уэй Уэй" 
+  />
+</p>
 
 <p align="center">
   <img 
