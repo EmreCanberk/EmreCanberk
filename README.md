@@ -1,9 +1,9 @@
-<!-- ===== BANNER ===== -->
+<!-- ===== TAM GENİŞLİK RAIN BACKGROUND ===== -->
+<img src="./assets/rain-icegif-2.gif" alt="Rain Background" style="width:100%; display:block;"/>
+
+<!-- ===== FOREGROUND GIF ===== -->
 <p align="center">
-  <!-- Background GIF -->
-  <img src="./assets/rain-icegif-2.gif" alt="Background Hack Banner" />
-  <!-- Foreground GIF -->
-  <img src="./assets/gosling-barbie.gif" alt="Foreground EmreCanberk Banner" />
+  <img src="./assets/gosling-barbie.gif" alt="EmreCanberk Banner" />
 </p>
 
 <!-- ===== BAŞLIK ===== -->
@@ -14,11 +14,6 @@
 <!-- ===== TEKNOLOJİLER & ÖĞRENİYOR ===== -->
 <p align="center">
   🛠️ <strong><span style="color:#39FF14">Teknolojiler:</span></strong>
-  <code>Web Programlama</code>,
-  <code>Python</code>,
-  <code>Java</code>,
-  <code>C</code>,
-  <code>Flutter</code>,
-  <code>Firebase</code><br>
-  🌱 <strong><span style="color:#39FF14">Öğreniyorum:</span></strong> React, AI, ML  
+  <code>Web Programlama</code>, <code>Python</code>, <code>Java</code>, <code>C</code>, <code>Flutter</code>, <code>Firebase</code><br>
+  🌱 <strong><span style="color:#39FF14">Öğreniyorum:</span></strong> React, AI, ML
 </p>
