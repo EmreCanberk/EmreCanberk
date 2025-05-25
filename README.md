@@ -7,7 +7,7 @@
 <h1 align="center">
   💻 Hello, I’m <strong>Emre</strong> 🚀
 </h1>
-<p align="center"><em>Computer Engineering Student &amp;</em></p>
+<p align="center"><em>Computer Engineering Student </em></p>
 
 <hr>
 
