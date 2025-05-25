@@ -34,10 +34,12 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/static/v1?label=&message=Адыгэ%20Уэй%20Уэй&color=FFD700&style=for-the-badge" 
+    src="./assets/adige_golden_text.png" 
     alt="Адыгэ Уэй Уэй" 
+    style="width:auto; height:48px; display:block; margin: 0 auto;" 
   />
 </p>
+
 
 <p align="center">
   <img 
