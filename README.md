@@ -1,31 +1,31 @@
-<!-- ===== ANİMASYONLU BANNER ===== -->
+<!-- ===== ANIMATED BANNER ===== -->
 <p align="center">
-  <img src="./assets/gosling-barbie.gif" alt="EmreCanberk Banner" width="400"/>
+  <img src="./assets/gosling-barbie.gif" alt=" Animated Banner" width="400" />
 </p>
 
-<!-- ===== BAŞLIK ===== -->
+<!-- ===== HEADER ===== -->
 <h1 align="center">
-  💻 <span style="color:#39FF14">Merhaba, ben <strong>Emre</strong></span> 🚀
+  💻 Hello, I’m <strong>Emre</strong> 🚀
 </h1>
-<p align="center"><sub>Bilgisayar Mühendisliği Öğrencisi &amp; Açık Kaynak Tutkunu</sub></p>
+<p align="center"><em>Computer Engineering Student &amp;</em></p>
 
 <hr>
 
-<!-- ===== TEKNOLOJİLER ===== -->
+<!-- ===== TECHNOLOGIES ===== -->
 <p align="center">
-  <strong>🛠️ Teknolojiler</strong><br>
-  <a href="#"><img src="https://img.shields.io/badge/Web%20Programlama-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+  🛠️ <strong>Technologies:</strong><br>
+  <img src="https://img.shields.io/badge/Web%20Development-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-<!-- ===== ÖĞRENİYORUM ===== -->
+<!-- ===== CURRENTLY LEARNING ===== -->
 <p align="center">
-  <strong>🌱 Öğreniyorum</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/AI-AI-blue?style=for-the-badge&logo=azuremachinelearning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML-ML-green?style=for-the-badge&logo=R&logoColor=white"/>
+  🌱 <strong>Currently Learning:</strong><br>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/AI-%23783f8a?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/ML-%23007ACC?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="ML"/>
 </p>
