@@ -1,17 +1,17 @@
-<!-- ===== ANIMATED BANNER ===== -->
+
 <p align="center">
-  <img src="./assets/gosling-barbie.gif" alt=" Animated Banner" width="400" />
+  <img src="./assets/gosling-barbie.gif" alt="Animated Banner" width="400" />
 </p>
 
-<!-- ===== HEADER ===== -->
+
 <h1 align="center">
-  💻 Hello, I’m <strong>Emre</strong> 🚀
+   Hello, I’m <strong>Emre</strong> 
 </h1>
-<p align="center"><em>Computer Engineering Student </em></p>
+<p align="center"><em>Computer Engineering Student</em></p>
 
 <hr>
 
-<!-- ===== TECHNOLOGIES ===== -->
+
 <p align="center">
   🛠️ <strong>Technologies:</strong><br>
   <img src="https://img.shields.io/badge/Web%20Development-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -22,10 +22,19 @@
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-<!-- ===== CURRENTLY LEARNING ===== -->
+
 <p align="center">
   🌱 <strong>Currently Learning:</strong><br>
   <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/AI-%23783f8a?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
   <img src="https://img.shields.io/badge/ML-%23007ACC?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="ML"/>
+</p>
+
+
+<p align="center">
+  <img 
+    src="./assets/Circassian_flag.svg.png" 
+    alt="Circassian Flag" 
+    style="width:100%; height:auto; display:block;" 
+  />
 </p>
