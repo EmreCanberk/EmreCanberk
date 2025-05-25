@@ -1,23 +1,24 @@
+<!-- ===== BANNER ===== -->
 <p align="center">
-  <img src="./assets/gosling-barbie.gif" alt="EmreCanberk Banner" />
+  <!-- Background GIF -->
+  <img src="./assets/rain-icegif-2.gif" alt="Background Hack Banner" />
+  <!-- Foreground GIF -->
+  <img src="./assets/gosling-barbie.gif" alt="Foreground EmreCanberk Banner" />
 </p>
 
-<h1 align="center"> Merhaba, ben <strong> Emre </strong> </h1>
+<!-- ===== BAŞLIK ===== -->
+<h1 align="center">
+  💻 <span style="color:#39FF14">Merhaba, ben <strong>Emre</strong></span> 🚀
+</h1>
 
+<!-- ===== TEKNOLOJİLER & ÖĞRENİYOR ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EmreCanberk&color=brightgreen" alt="Profil Ziyaretçisi"/>  
-</p>
-
-<p align="center">
-  🛠 <strong>Teknolojiler:</strong>
+  🛠️ <strong><span style="color:#39FF14">Teknolojiler:</span></strong>
   <code>Web Programlama</code>,
   <code>Python</code>,
   <code>Java</code>,
   <code>C</code>,
   <code>Flutter</code>,
   <code>Firebase</code><br>
-   <strong>Öğreniyorum:</strong> React, AI, ML<br>
-   
- 
+  🌱 <strong><span style="color:#39FF14">Öğreniyorum:</span></strong> React, AI, ML  
 </p>
-
