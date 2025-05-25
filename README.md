@@ -32,7 +32,8 @@
 
 <hr>
 <h1 align="center">
-     <strong>Адыгэ Уэй Уэй</strong> </h1>
+<strong><span style="color:#FFD700">Адыгэ Уэй Уэй</span></strong>
+</h1>
 
 
 <p align="center">
