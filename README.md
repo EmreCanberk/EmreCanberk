@@ -35,6 +35,6 @@
   <img 
     src="./assets/Circassian_flag.svg.png" 
     alt="Circassian Flag" 
-    style="width:100%; height:20%; display:block;" 
+    style="width:100%; height:10%; display:block;" 
   />
 </p>
