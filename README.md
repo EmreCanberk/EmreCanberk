@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-   Hello, I’m <strong>Emre</strong> 
+  <strong> Hello, I’m <strong>Emre</strong> 
 </h1>
 <p align="center"><em>Computer Engineering Student</em></p>
 
@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/AI-%23783f8a?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
   <img src="https://img.shields.io/badge/ML-%23007ACC?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="ML"/>
 </p>
+
+<hr>
+<h1 align="center">
+     <strong>Адыгэ Уэй Уэй</strong> </h1>
 
 
 <p align="center">
